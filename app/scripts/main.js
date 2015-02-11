@@ -37,8 +37,6 @@ function main() {
         locationLoading = true;
     };
 
-    vehicleControl.start(map);
-
     return map;
 }
 
